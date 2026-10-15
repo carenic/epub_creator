@@ -1,0 +1,8 @@
+# build scratch and caches
+.build/
+.cache/
+.tools/
+
+# generated books
+*.epub
+
